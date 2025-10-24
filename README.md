@@ -12,11 +12,11 @@ Benchmark comparando performance de `for loops`, `list comprehensions` e `map()`
 
 ## 🏗️ Estrutura
 python-data-processing-benchmark/
-├── 📂 data/                 # Datasets e arquivos de dados\n
-├── 📂 notebooks/            # Análises e experimentos em Jupyter\n
-├── 📂 src/                  # Código fonte principal\n
-├── 📂 tests/                # Testes unitários e de performance\n
-└── 📄 requirements.txt      # Dependências do projeto\n
+├── 📂 data/                 # Datasets e arquivos de dados  
+├── 📂 notebooks/            # Análises e experimentos em Jupyter  
+├── 📂 src/                  # Código fonte principal  
+├── 📂 tests/                # Testes unitários e de performance  
+└── 📄 requirements.txt      # Dependências do projeto  
 
 
 ## ⚡ Como Usar
