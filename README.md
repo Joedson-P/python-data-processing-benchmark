@@ -28,6 +28,7 @@ cd python-data-processing-benchmark
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ## 📈 Status do Projeto
 
